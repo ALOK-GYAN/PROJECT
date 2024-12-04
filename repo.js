@@ -1,4 +1,1 @@
-
-// add new = heading
-
-//  add new = image
+// add new = button
